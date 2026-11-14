@@ -2,11 +2,11 @@ document.documentElement.classList.add("js");
 
 /* ============ À REMPLIR PAR VOUS ============ */
 const CONFIG = {
-  email:     "",   // ex. "krkservices@gmail.com"  (laisser vide = non affiché)
-  whatsapp:  "",   // indicatif + numéro, sans + ni espaces, ex. "2290165857916"
+  email:     "krkonlineenglishcenter@gmail.com",   // ex. "krkservices@gmail.com"  (laisser vide = non affiché)
+  whatsapp:  "2290165857916",   // indicatif + numéro, sans + ni espaces, ex. "2290165857916"
   linkedin:  "",   // adresse complète de votre profil, ex. "https://www.linkedin.com/in/votre-nom"
-  formspree: "",   // identifiant Formspree du formulaire, ex. "abcdwxyz" (la fin du lien https://formspree.io/f/...)
-  centreUrl: ""    // adresse du site du centre, ex. "https://votrenom.github.io"
+  formspree: "mwloelnw",   // identifiant Formspree du formulaire, ex. "abcdwxyz" (la fin du lien https://formspree.io/f/...)
+  centreUrl: "https://krkonlineenglishcenter.github.io/"    // adresse du site du centre, ex. "https://votrenom.github.io"
 };
 
 /* ============ Langue : FR / EN ============ */
